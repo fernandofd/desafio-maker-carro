@@ -41,37 +41,37 @@ Alguns exemplos de esquema elétrico abaixo:
 
 - Shield SIGE Robótica
 ![](equipamento_sige_robotica.jpg)
-Datasheet: [Clique aqui para baixar o PDF](datasheet_sige_robotica.pdf)
+  - Datasheet: [Clique aqui para baixar o PDF](datasheet_sige_robotica.pdf)
 
 - Plataforma Carro Robótico
 ![](equipamento_carro.jpg)
-Descrição: Chassis robótico com 2 motores DC, caixas de redução, rodas e pneus.
+  - Descrição: Chassis robótico com 2 motores DC, caixas de redução, rodas e pneus.
 
 - Bateria 7.2V com carregador
 ![](equipamento_bateria_carregador.jpg)
-Descrição: Bateria 7,2V 650mAh
+  - Descrição: Bateria 7,2V 650mAh
 
 - Controle de Playstation 2
 ![](equipamento_controle_ps2.jpg)
-Descrição: Controle de videogame com receptor sem fio.
-Documentação: [Clique aqui para ver a documentação](https://create.arduino.cc/projecthub/electropeak/how-to-interface-ps2-wireless-controller-w-arduino-a0a813)
+  - Descrição: Controle de videogame com receptor sem fio.
+  - Documentação: [Clique aqui para ver a documentação](https://create.arduino.cc/projecthub/electropeak/how-to-interface-ps2-wireless-controller-w-arduino-a0a813)
 
 - Motor Shield L293D - Driver Ponte H para Arduino
 ![](equipamento_placa_motores.jpg)
-Datasheet: https://www.arduino.cc/documents/datasheets/L293D.pdf
+  - Datasheet: https://www.arduino.cc/documents/datasheets/L293D.pdf
 
 - Sensor Ultrassônico
 ![](equipamento_sensor_ultrassonico.jpg)
-Datasheet: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
+  - Datasheet: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 
 - Sensor Seguidor de Linha
 ![](equipamento_sensor_seguidor_linha.jpg)
-Descrição: Sensor seguidor de linha com LED de 3W. Fiação: Vermelho = 5V, Azul = GND, Branco = sinal sensor 1, Preto = sinal sensor 2
+  - Descrição: Sensor seguidor de linha com LED de 3W. Fiação: Vermelho = 5V, Azul = GND, Branco = sinal sensor 1, Preto = sinal sensor 2
 
 - Servo motor 9g
 ![](equipamento_servo.jpg)
-Descrição: Servo motor 9g.
-Datasheet: http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf 
+  - Descrição: Servo motor 9g.
+  - Datasheet: http://www.ee.ic.ac.uk/pcheung/teaching/DE1_EE/stores/sg90_datasheet.pdf 
 
 ## Instruções de montagem
 
