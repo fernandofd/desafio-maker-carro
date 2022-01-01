@@ -36,8 +36,8 @@ Alguns exemplos de esquema elétrico abaixo:
 
 - Arduino UNO
 ![](equipamento_arduino.jpg)
-Documentação: https://www.circuito.io/blog/arduino-uno-pinout/
-Datasheet: https://www.arduino.cc/en/uploads/Main/arduino-uno-schematic.pdf
+  - Documentação: https://www.circuito.io/blog/arduino-uno-pinout/
+  - Datasheet: https://www.arduino.cc/en/uploads/Main/arduino-uno-schematic.pdf
 
 - Shield SIGE Robótica
 ![](equipamento_sige_robotica.jpg)
