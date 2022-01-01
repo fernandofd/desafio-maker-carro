@@ -66,7 +66,7 @@ Datasheet: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
 
 - Sensor Seguidor de Linha
 ![](equipamento_sensor_seguidor_linha.jpg)
-Descrição: Sensor seguidor de linha com LED de 3W. Fiação: Vermelho = 5V, Preto = GND, Branco = sinal sensor 1, Azul = sinal sensor 2
+Descrição: Sensor seguidor de linha com LED de 3W. Fiação: Vermelho = 5V, Azul = GND, Branco = sinal sensor 1, Preto = sinal sensor 2
 
 - Servo motor 9g
 ![](equipamento_servo.jpg)
