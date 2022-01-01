@@ -10,6 +10,12 @@ Para isso o participante precisa fazer um fork deste projeto e enviar um Pull Re
 
 ## Regras do Desafio
 
+- Todos podem participar, exceto funcionários do Curso Arduino (no caso, eu e minha família).
+- Tem que ser pessoa física, mesmo que seja representando uma empresa, mas a premiação é para uma pessoa só.
+- O ganhador será decidido por enquete, em Março, via divulgação no canal do [Curso Arduino do Youtube](http://www.youtube.com/cursoarduino) (plataforma de enquete a ser decidida ainda...)
+- A enquete será composta dos projetos escolhidos, em Fevereiro, pela equipe do Curso Arduino, no máximo 5 candidatos, que terão seus projetos montados pelo Renato Aloi em vídeo e divulgados no canal do [Curso Arduino do Youtube](http://www.youtube.com/cursoarduino).
+- O material utilizado deve ser exatamente os indicados na seção `Equipamentos` desse documento, podendo deixar algum material de lado, mas não utilizar um que não esteja listado (senão não vou conseguir reproduzir o tutorial).
+- Os materiais adicionais que podem ser utilizados estão na seção `Equipamentos Adicionais`.
 - O participante deve fazer um fork desse projeto e trabalhar no projeto copiado pelo fork; e ao final enviar um Pull Request com suas modificações nos arquivos.
 - O participante deve desenvolver um material com instruções detalhadas, em forma de tutorial, que possam ser seguidas de forma sequencial e que o produto final seja um carro robótico que funcione.
 - O material deve ser produzido a partir desse documento README.md e pode conter imagens adicionais, graficos, esquemas elétricos e tudo mais, desde que esteja na mesma pasta deste arquivo.
@@ -100,7 +106,34 @@ void loop() {
 }
 ```
 
-## Prêmio do Desafio
+## Equipamentos Adicionais
+
+Além dos equipamentos listados acima na seção de `Equipamentos`, os equipamentos adicionais abaixo podem ser também utilizados nas montagens e fotos adicionais.
+
+Entre em contato pelo `Issues` caso precise adicionar algum componente adicional não listado abaixo:
+
+- Resistores, Capacitores, e componentes discretos comuns
+- Fios, jumpers, cabos
+- Conectores padrão MODU compatível com Arduino
+- Adaptadores de servo motor
+- Headers de shields
+- Espaçadores plásticos em 3D (formato do arquivo: STL, tamanho máximo: 10x10x10cm)
+- Porcas, parafusos, arruelas
+
+
+## Prêmiação do Desafio
+
+### 1º Lugar
+
+- Kit completo (e atualizado, pois todos os componentes que forem usados na montagem serão enviados junto com o kit)
+  - > Envio sem custos (desde que seja no Brasil)
+  - > Vide fotos abaixo
+- Divulgação do tutorial de montagem no canal do Curso Arduino no Youtube
+- Live com Renato Aloi no canal do Curso Arduino no Youtube para apresentar o projeto.
+
+### 2º ao 5º Lugares
+
+- Divulgação do tutorial de montagem no canal do Curso Arduino no Youtube.
 
 Abaixo segue uma foto do prêmio oferecido pelo desafio. Quem ganhar o desafio leva o kit todo de peças que está dentro da caixa da foto abaixo! Participe, boa sorte!
 
