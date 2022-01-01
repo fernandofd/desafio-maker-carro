@@ -12,11 +12,12 @@ Para isso o participante precisa fazer um fork deste projeto e enviar um Pull Re
 
 - Todos podem participar, exceto funcionários do Curso Arduino (no caso, eu e minha família).
 - Tem que ser pessoa física, mesmo que seja representando uma empresa, mas a premiação é para uma pessoa só.
-- O ganhador será decidido por enquete, em Março, via divulgação no canal do [Curso Arduino do Youtube](http://www.youtube.com/cursoarduino) (plataforma de enquete a ser decidida ainda...)
-- A enquete será composta dos projetos escolhidos, em Fevereiro, pela equipe do Curso Arduino, no máximo 5 candidatos, que terão seus projetos montados pelo Renato Aloi em vídeo e divulgados no canal do [Curso Arduino do Youtube](http://www.youtube.com/cursoarduino).
+- O ganhador será decidido por enquete, em Março de 2022, via divulgação no canal do [Curso Arduino do Youtube](http://www.youtube.com/cursoarduino) (plataforma de enquete a ser decidida ainda...)
+- A enquete será composta dos projetos escolhidos, em Fevereiro de 2022, pela equipe do Curso Arduino, no máximo 5 candidatos, que terão seus projetos montados pelo Renato Aloi em vídeo e divulgados no canal do [Curso Arduino do Youtube](http://www.youtube.com/cursoarduino).
 - O material utilizado deve ser exatamente os indicados na seção `Equipamentos` desse documento, podendo deixar algum material de lado, mas não utilizar um que não esteja listado (senão não vou conseguir reproduzir o tutorial).
 - Os materiais adicionais que podem ser utilizados estão na seção `Equipamentos Adicionais`.
 - O participante deve fazer um fork desse projeto e trabalhar no projeto copiado pelo fork; e ao final enviar um Pull Request com suas modificações nos arquivos.
+- Todos os arquivos desse projeto podem ser modificados, inclusive as fotos; e novos arquivos podem ser criados, desde que estejam na raiz do projeto ou devidamente linkados com este arquivo.
 - O participante deve desenvolver um material com instruções detalhadas, em forma de tutorial, que possam ser seguidas de forma sequencial e que o produto final seja um carro robótico que funcione.
 - O material deve ser produzido a partir desse documento README.md e pode conter imagens adicionais, graficos, esquemas elétricos e tudo mais, desde que esteja na mesma pasta deste arquivo.
 - O projeto deve contar com um esquema elétrico também.
