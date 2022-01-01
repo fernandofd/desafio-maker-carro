@@ -35,7 +35,7 @@ Alguns exemplos de esquema elétrico abaixo:
 ## Equipamentos
 
 - Arduino UNO
-![](equipamento_arduino.jpg)
+![](equipamento_arduino.jpg =250x)
   - Documentação: https://www.circuito.io/blog/arduino-uno-pinout/
   - Datasheet: https://www.arduino.cc/en/uploads/Main/arduino-uno-schematic.pdf
 
